@@ -1,0 +1,27 @@
+{
+  "name": "ms-bot-test",
+  "version": "1.0.0",
+  "description": "MS Bot Framework Node.js testing app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baskakov/ms-bot-test.git"
+  },
+  "keywords": [
+    "bot",
+    "skype"
+  ],
+  "author": "Dmitry Baskakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baskakov/ms-bot-test/issues"
+  },
+  "homepage": "https://github.com/baskakov/ms-bot-test#readme",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  }
+}

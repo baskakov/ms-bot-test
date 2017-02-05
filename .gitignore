@@ -35,3 +35,28 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
